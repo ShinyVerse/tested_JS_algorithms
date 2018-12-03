@@ -1,0 +1,27 @@
+{
+  "name": "tested_js_algorithms",
+  "version": "1.0.0",
+  "description": "TDD JS Katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinyVerse/tested_JS_algorithms.git"
+  },
+  "keywords": [
+    "javascript",
+    "algorithms",
+    "jest"
+  ],
+  "author": "Laura Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinyVerse/tested_JS_algorithms/issues"
+  },
+  "homepage": "https://github.com/ShinyVerse/tested_JS_algorithms#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
